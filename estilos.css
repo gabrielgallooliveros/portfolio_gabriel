@@ -495,12 +495,11 @@ button:hover {
 }
 
 
-.github:hover { 
-    cursor: pointer;
-    filter: none;
-    transform: scale(1.2);
-    transition: 0.4s;
+.icono-github {
+    width: 20px;
+    height: 20px;
 }
+    
 
 
 
